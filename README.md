@@ -60,9 +60,6 @@ O provisionamento automatizado instala e configura servidores, redes e software 
 
 Com isso, garantimos um ambiente confiável e escalável para hospedar sites WordPress.
 
-Representados a seguir:
-
-![imagem requisito](https://github.com/ViviAkhemi/infrastructure/blob/master/img/requisito.jpg)
 
 
 
